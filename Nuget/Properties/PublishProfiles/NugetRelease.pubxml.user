@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Readme/Elmah.txt">
+      <publishTime>06/24/2015 13:50:29</publishTime>
+    </File>
+    <File Include="bin/Elmah.dll">
+      <publishTime>06/24/2015 13:50:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/24/2015 13:50:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.XmlTransform.dll">
+      <publishTime>06/24/2015 13:50:21</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>06/24/2015 13:50:22</publishTime>
+    </File>
+    <File Include="bin/NuGet.Core.dll">
+      <publishTime>06/24/2015 13:50:21</publishTime>
+    </File>
+    <File Include="bin/Nuget.dll">
+      <publishTime>06/24/2015 15:31:28</publishTime>
+    </File>
+    <File Include="bin/NuGet.Server.dll">
+      <publishTime>06/24/2015 13:50:22</publishTime>
+    </File>
+    <File Include="bin/RouteMagic.dll">
+      <publishTime>06/24/2015 13:50:22</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>06/24/2015 13:50:22</publishTime>
+    </File>
+    <File Include="DataServices/Packages.svc">
+      <publishTime>06/24/2015 13:50:33</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>06/24/2015 13:50:32</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/24/2015 13:50:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/24/2015 14:53:28</publishTime>
+    </File>
+    <File Include="Packages/AutoMapper.3.3.1.nupkg">
+      <publishTime>06/24/2015 14:51:48</publishTime>
+    </File>
+    <File Include="Packages/David.Utility.Log4net.2.0.2.nupkg">
+      <publishTime>06/24/2015 15:30:04</publishTime>
+    </File>
+    <File Include="Packages/EntityFramework.6.1.3.nupkg">
+      <publishTime>06/24/2015 15:29:01</publishTime>
+    </File>
+    <File Include="Packages/log4net.2.0.3.nupkg">
+      <publishTime>06/24/2015 15:30:04</publishTime>
+    </File>
+    <File Include="Packages/Readme.txt">
+      <publishTime>06/24/2015 13:50:32</publishTime>
+    </File>
+    <File Include="Packages/Vlc.DotNet.Core.2.1.62.nupkg">
+      <publishTime>06/24/2015 09:27:23</publishTime>
+    </File>
+    <File Include="Packages/Vlc.DotNet.Core.Interops.2.1.62.nupkg">
+      <publishTime>06/24/2015 09:27:23</publishTime>
+    </File>
+    <File Include="Packages/Vlc.DotNet.Forms.2.1.62.nupkg">
+      <publishTime>06/24/2015 09:27:23</publishTime>
+    </File>
+    <File Include="Packages/Vlc.DotNet.Wpf.2.1.62.nupkg">
+      <publishTime>06/24/2015 09:27:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/24/2015 15:31:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
